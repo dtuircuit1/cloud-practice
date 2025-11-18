@@ -1,0 +1,18 @@
+Task
+
+Install AWS CLI
+
+Objective:
+Research an implement best method install AWS CLI based on environment needs
+
+Details
+OS: MAC
+Version: 13.7.8 (22H730)
+
+
+Install:
+
+Command Line Installer
+
+Rationale:
+Command Line Installer is preferred over GUI to ensure the practice of text based commands and not rely on the more user-friendly or simple, setup wizard from the GUI installer package. The CLI installer will allow me to use specific commands and syntax while providing practice with higher, more granular level of control with access to functions and advanced option. 
